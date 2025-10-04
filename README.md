@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Timofey<br>My main language - Golang
+Hi, my name is Timofey<br>My main language - **Golang**
 
 
 ## 🌐 Socials:
